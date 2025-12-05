@@ -1,0 +1,17 @@
+streamlit
+bs4
+langchain
+langchain_classic
+langchain-community
+python-dotenv
+langchain-groq
+langchain-google-genai
+unstructured
+langchain-chroma
+langserve
+langgraph
+supabase
+wikipedia-api
+pypdf
+fastapi
+sse_starlette
