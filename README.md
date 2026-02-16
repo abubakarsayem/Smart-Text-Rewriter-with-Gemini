@@ -1,12 +1,1 @@
-### How to run?
-
-python -m venv project01st_
-
-project01st_\Scripts\activate
-
-pip install -r requirements.txt
-
-streamlit run main.py
-
-
-
+A simple web application that rewrites text in different styles using the Gemini API. Users can enter their API key, input text, select a tone and dialect, and instantly receive a refined version. This tool helps improve clarity, professionalism, and language localization of written content.
