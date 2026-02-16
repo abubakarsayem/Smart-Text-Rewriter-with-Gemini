@@ -44,8 +44,8 @@ def load_LLM(api_key: str):
         temperature=0.7
     )
 
-st.set_page_config(page_title="Smart Text Rewriter")
-st.header("Smart Text Rewriter")
+st.set_page_config(page_title="Smart Text Rewriter with Gemini")
+st.header("Smart Text Rewriter with Gemini")
 
 col1, col2 = st.columns(2)
 with col1:
